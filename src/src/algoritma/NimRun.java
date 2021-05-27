@@ -1,3 +1,5 @@
+package algoritma;
+
 public class NimRun {
     public static void main(String[] args) {
         String nim = "12050120370";

@@ -1,3 +1,5 @@
+package algoritma;
+
 public class Nim {
     private String nim;
 
